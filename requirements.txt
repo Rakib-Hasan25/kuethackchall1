@@ -1,1 +1,6 @@
 flask
+pymongo
+python-dotenv
+langchain 
+langchain-openai
+langchain-pinecone

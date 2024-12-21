@@ -1,0 +1,50 @@
+- Spaghetti Bolognese, Italian, Savory, 4.8/5, 45 minutes, spaghetti, ground beef, tomatoes, garlic, onion.
+- Chicken Tikka Masala, Indian, Spicy, 4.9/5, 50 minutes, chicken, yogurt, tomatoes, garam masala, cream.
+- Sushi Rolls, Japanese, Umami, 4.7/5, 60 minutes, sushi rice, nori, raw fish, cucumber, avocado.
+- Beef Stroganoff, Russian, Creamy, 4.6/5, 40 minutes, beef, mushrooms, sour cream, onion, butter.
+- Pad Thai, Thai, Tangy, 4.8/5, 30 minutes, rice noodles, shrimp, tamarind, peanuts, bean sprouts.
+- Tacos Al Pastor, Mexican, Smoky, 4.9/5, 25 minutes, pork, pineapple, chili peppers, tortillas, cilantro.
+- Moussaka, Greek, Hearty, 4.5/5, 75 minutes, eggplant, ground lamb, tomatoes, béchamel sauce, cheese.
+- Creme Brulee, French, Sweet, 4.7/5, 35 minutes, cream, sugar, vanilla, egg yolks.
+- Shakshuka, Middle Eastern, Spicy, 4.8/5, 25 minutes, tomatoes, eggs, bell peppers, garlic, paprika.
+- Clam Chowder, American, Savory, 4.6/5, 40 minutes, clams, potatoes, cream, bacon, onion.
+- Pho, Vietnamese, Aromatic, 4.8/5, 50 minutes, beef, rice noodles, star anise, ginger, cilantro.
+- Ratatouille, French, Herbal, 4.5/5, 35 minutes, zucchini, eggplant, tomatoes, bell peppers, thyme.
+- Kimchi Jjigae, Korean, Spicy, 4.8/5, 30 minutes, kimchi, pork, tofu, gochujang, garlic.
+- Falafel Wrap, Middle Eastern, Crispy, 4.7/5, 20 minutes, chickpeas, parsley, garlic, pita bread, tahini.
+- Rogan Josh, Indian, Spicy, 4.8/5, 60 minutes, lamb, yogurt, tomatoes, spices, ghee.
+- Fish and Chips, British, Crispy, 4.6/5, 30 minutes, cod, potatoes, flour, eggs, oil.
+- Shepherd's Pie, Irish, Hearty, 4.8/5, 50 minutes, ground beef, potatoes, carrots, peas, butter.
+- Bruschetta, Italian, Fresh, 4.7/5, 15 minutes, bread, tomatoes, basil, garlic, olive oil.
+- Bibimbap, Korean, Savory, 4.8/5, 40 minutes, rice, vegetables, beef, egg, gochujang.
+- Churros, Spanish, Sweet, 4.9/5, 20 minutes, flour, sugar, eggs, cinnamon, oil.
+- Jollof Rice, African, Spicy, 4.8/5, 50 minutes, rice, tomatoes, onions, peppers, chicken.
+- Hummus, Middle Eastern, Smooth, 4.7/5, 15 minutes, chickpeas, tahini, garlic, lemon, olive oil.
+- Shrimp Scampi, American, Garlicky, 4.6/5, 25 minutes, shrimp, garlic, butter, lemon, pasta.
+- Lentil Soup, Mediterranean, Comforting, 4.7/5, 40 minutes, lentils, carrots, celery, onions, stock.
+- Green Curry, Thai, Spicy, 4.8/5, 45 minutes, green curry paste, coconut milk, chicken, eggplant, basil.
+- Ceviche, Peruvian, Zesty, 4.7/5, 20 minutes, fish, lime, onion, cilantro, chili.
+- Cheeseburger, American, Juicy, 4.8/5, 20 minutes, beef patty, cheese, bun, lettuce, tomato.
+- Carbonara, Italian, Creamy, 4.9/5, 20 minutes, pasta, pancetta, eggs, parmesan, pepper.
+- Baklava, Turkish, Sweet, 4.7/5, 60 minutes, phyllo dough, nuts, honey, sugar, butter.
+- Baba Ganoush, Middle Eastern, Smoky, 4.8/5, 25 minutes, eggplant, tahini, garlic, lemon, olive oil.
+- Tom Yum Soup, Thai, Spicy, 4.9/5, 30 minutes, shrimp, lemongrass, lime leaves, chili paste, mushrooms.
+- Stuffed Bell Peppers, American, Savory, 4.7/5, 40 minutes, bell peppers, rice, ground beef, tomatoes, cheese.
+- Apple Pie, American, Sweet, 4.8/5, 70 minutes, apples, sugar, cinnamon, flour, butter.
+- Paella, Spanish, Savory, 4.8/5, 60 minutes, rice, saffron, seafood, chicken, peas.
+- Croque Monsieur, French, Cheesy, 4.7/5, 15 minutes, bread, ham, cheese, béchamel sauce.
+- Tiramisu, Italian, Sweet, 4.9/5, 45 minutes, mascarpone, coffee, ladyfingers, cocoa, sugar.
+- French Onion Soup, French, Rich, 4.6/5, 50 minutes, onions, beef broth, bread, cheese, butter.
+- Stuffed Mushrooms, Italian, Savory, 4.7/5, 30 minutes, mushrooms, breadcrumbs, garlic, parmesan, parsley.
+- Lamb Korma, Indian, Creamy, 4.8/5, 60 minutes, lamb, yogurt, almonds, spices, onion.
+- Veggie Stir-Fry, Chinese, Crunchy, 4.7/5, 20 minutes, broccoli, bell peppers, soy sauce, garlic, sesame oil.
+- Pumpkin Soup, American, Creamy, 4.8/5, 30 minutes, pumpkin, cream, onion, nutmeg, stock.
+- Kebabs, Middle Eastern, Smoky, 4.9/5, 30 minutes, lamb, spices, yogurt, onion, skewers.
+- Egg Fried Rice, Chinese, Savory, 4.7/5, 20 minutes, rice, eggs, soy sauce, peas, carrots.
+- Chili Rellenos, Mexican, Spicy, 4.8/5, 40 minutes, poblano peppers, cheese, eggs, tomato sauce, flour.
+- Panna Cotta, Italian, Sweet, 4.7/5, 20 minutes, cream, sugar, gelatin, vanilla, berries.
+- Fish Tacos, Mexican, Zesty, 4.8/5, 20 minutes, fish, tortillas, cabbage, lime, salsa.
+- Shrimp Etouffee, Cajun, Spicy, 4.9/5, 45 minutes, shrimp, roux, bell peppers, onion, celery.
+- Omelette, French, Light, 4.6/5, 10 minutes, eggs, cheese, herbs, butter, salt.
+- Caprese Salad, Italian, Fresh, 4.7/5, 10 minutes, tomatoes, mozzarella, basil, olive oil, balsamic.
+- Ravioli, Italian, Hearty, 4.8/5, 60 minutes, pasta dough, ricotta, spinach, parmesan, tomato sauce.
